@@ -36,5 +36,6 @@
 
 /bin/brakeman
 /bin/importmap
+C:\railsresume\resume\bin\importmap
 /bin/rubocop
 /bin/rails
